@@ -8,7 +8,7 @@
 
 -  **Lớp:** CNTT2
 
--  **Link repository Pha1:** https://github.com/1802nightfury1802-beep/HN-KS26-CNTT2_PromtAI_H02_Pha1-Pha2/upload/main
+-  **Link repository Pha1:** https://github.com/1802nightfury1802-beep/HN-KS26-CNTT2_PromtAI_H02_Pha1-Pha2
 
   
 
